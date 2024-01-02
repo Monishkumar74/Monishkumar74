@@ -1,29 +1,23 @@
-Strong foundation in Programming and Front-end development 
-Programming Languages: HTML, CSS, Python 
-Front-end: CSS frameworks (Bootstrap),
- JavaScript frameworks (AngularJS) 
-projects. Find out more about me & feel free to connect with me here:
+<h1 align="center">Hi 👋, I'm Monishkumar A</h1>
+<h3 align="center">A passionate Full Stack developer from India Strong foundation in Programming and Front-end development Programming Languages: HTML, CSS, Python Front-end: CSS frameworks (Bootstrap), JavaScript frameworks (AngularJS) projects: https://github.com/Monishkumar74/angular/ hardware skills: embedded system , smart sensors , FPGA. Find out more about me & feel free to connect with me here:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-priyadharshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadharshan-chandranath/)](https://www.linkedin.com/in/priyadharshan-chandranath/)
-[![Medium Badge](https://img.shields.io/badge/priyadharshan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@priyan2003chandru/)](https://medium.com/@priyan2003chandru/)
-[![Gmail Badge](https://img.shields.io/badge/-priyan2003chandru@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyan2003chandru@gmail.com)](mailto:priyan2003chandru@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monishkumar74&label=Profile%20views&color=0e75b6&style=flat" alt="monishkumar74" /> </p>
 
-##  😃 Social 
+- 📫 How to reach me **monishkumar0420@gmail.com**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=http://wa.me/+919442876978)](http://wa.me/+919442876978)
-[![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/priyadharshan_chandranath/)](https://www.instagram.com/priyadharshan_chandranath/)
-[![Discord](https://img.shields.io/badge/-Priyadharshan-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/860823328730382346/)](https://discord.com/users/860823328730382346)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/monishkumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monishkumar7" height="30" width="40" /></a>
+<a href="https://instagram.com/monishkumar7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monishkumar7_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/monishkumar74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monishkumar74" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/monishkumar0420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monishkumar0420" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/monishkumar0420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monishkumar0420" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/monishkuocpj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monishkuocpj" height="30" width="40" /></a>
+</p>
 
-## 👨‍💻 Programming
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c&link=https://auth.geeksforgeeks.org/user/priyan200t19t)](https://auth.geeksforgeeks.org/user/priyan200t19t)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/priyan2003chandru/)](https://leetcode.com/priyan2003chandru/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/priyadharshan003)](https://www.hackerrank.com/priyadharshan003)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/prichan2003)](https://www.codechef.com/users/prichan2003)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/priyadharshan-the-typescripter)](https://codepen.io/priyadharshan-the-typescripter)
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@priyan2003chandru)](https://www.hackerearth.com/@priyan2003chandru)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10552754/byte-hogger?tab=profile)](https://stackoverflow.com/users/10552754/byte-hogger?tab=profile)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
 ## ⚡ Technologies
 
