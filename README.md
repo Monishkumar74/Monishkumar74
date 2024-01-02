@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Monishkumar A</h1>
-<h3 align="center">A passionate Full Stack developer from India Strong foundation in Programming and Front-end development Programming Languages: HTML, CSS, Python Front-end: CSS frameworks (Bootstrap), JavaScript frameworks (AngularJS) projects: https://github.com/Monishkumar74/angular/ hardware skills: embedded system , smart sensors , FPGA. Find out more about me & feel free to connect with me here:</h3>
+<h3 align="center">A passionate Full Stack developer from India Strong foundation in Programming and Front-end development Programming Languages: HTML, CSS, Python Front-end: CSS frameworks (Bootstrap), JavaScript frameworks (AngularJS) projects: https://github.com/Monishkumar74/angular/ hardware skills: embedded system , smart sensors , FPGA. Find out more about me & feel free to connect with me here:</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monishkumar74&label=Profile%20views&color=0e75b6&style=flat" alt="monishkumar74" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-MonishkumarA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monishkumar7/)](https://www.linkedin.com/in/monishkumar7/)
+[![Gmail Badge](https://img.shields.io/badge/-monishkumar0420@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monishkumar0420@gmail.com)](mailto:monishkumar0420@gmail.com)
+
+
 
 - 📫 How to reach me **monishkumar0420@gmail.com**
 
@@ -51,4 +54,4 @@
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=priyadharshan.priyadharshan)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monishkumar74&label=Profile%20views&color=0e75b6&style=flat" alt="monishkumar74" /> </p>
