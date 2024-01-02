@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India Strong foundation in Programming and Front-end development Programming Languages: HTML, CSS, Python Front-end: CSS frameworks (Bootstrap), JavaScript frameworks (AngularJS) projects: https://github.com/Monishkumar74/angular/ hardware skills: embedded system , smart sensors , FPGA. Find out more about me & feel free to connect with me here:</h3> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MonishkumarA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monishkumar7/)](https://www.linkedin.com/in/monishkumar7/)
-[![Gmail Badge](https://img.shields.io/badge/-monishkumar0420@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monishkumar0420@gmail.com)](mailto:monishkumar0420@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-monishkumar0420@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=monishkumar0420@gmail.com)](monishkumar0420@gmail.com)
 
 
 
@@ -29,15 +29,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -45,8 +38,6 @@
 
 ## 🖥️ Operating System
 
-![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
