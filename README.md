@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monishkumar A</h1>
 <h3 align="left">A passionate Full Stack developer from India </br>
-Strong foundation in Programming and Front-end development Programming Languages: HTML, CSS, Python Front-end: CSS frameworks (Bootstrap), JavaScript frameworks (AngularJS) projects: https://github.com/Monishkumar74/angular/ <br> hardware skills: embedded system , smart sensors , FPGA. 
+Strong foundation in Programming and Front-end development Programming Languages: HTML, CSS, Python, Front-end: CSS frameworks (Bootstrap), JavaScript frameworks (AngularJS) projects: https://github.com/Monishkumar74/angular/ <br> hardware skills: embedded system , smart sensors , FPGA. 
   
   Find out more about me & feel free to connect with me here:</h3> 
 
