@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monishkumar A</h1>
 <h3 align="left">A passionate Full Stack developer from India </br>
-As a highly motivated and enthusiastic individual, I am seeking opportunities to leverage my skills in Python, web development, Google data analysis, EV design, front-end frameworks, embedded systems, and analytical skills to contribute as a Front End and Full Stack Developer. With a strong foundation in these areas and a passion for creating innovative solutions, I am eager to make a meaningful impact in a dynamic and collaborative environment. 
+I am a highly motivated professional specializing in DevSecOps, with hands-on expertise in CI/CD automation, GitHub Actions, Kubernetes, and cloud-native practices to deliver secure, scalable, and reliable applications. Along with my core DevSecOps skills, I bring a strong foundation in Python development, data analysis, front-end frameworks, embedded systems, smart sensors, enabling me to approach problems with both software and hardware perspectives. Passionate about continuous learning and innovation, I thrive in collaborative environments where I can contribute to building impactful, future-ready solutions.
   
   Find out more about me & feel free to connect with me here:</h3> 
 
